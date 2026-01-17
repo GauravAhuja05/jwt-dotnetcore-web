@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+ 
+# EXCEPTION: allow committed external DLLs
+!Libs/**
